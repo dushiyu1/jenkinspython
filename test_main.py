@@ -7,7 +7,7 @@ class TestClass:
  
     def test_two(self):
         x = "hello"
-        assert hasattr(x, "check")
+        assert hasattr(x, "h")
  
 if __name__ == '__main__':
 #    pytest.main()
